@@ -10,3 +10,7 @@ Despite still considering myself a nube, I increasingly enjoy developing program
 In case you wanna know more, feel free to reach out to me, Simon Landauer. 
 
 <a href="https://github.com/simonsaysenjoy"><img align="center" src="https://github-readme-stats-three-nu-12.vercel.app/api/top-langs/?username=simonsaysenjoy&lang_count_=8&layout=donut&theme=swift&size_weight=0.5&count_weight=0.5&hide_border=true" /> 
+
+<a href="https://github.com/simonsaysenjoy"><img align="center" src="https://github-readme-stats-three-nu-12.vercel.app/api?username=simonsaysenjoy&l&hide=contribs,prs"/> 
+
+
