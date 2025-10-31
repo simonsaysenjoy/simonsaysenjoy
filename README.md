@@ -4,8 +4,8 @@
 
 Hi, my name is Simon. 
 
-<p>I am an alpine citizen with a keen interest in **spatial issues**, ranging from landscape ecology to urban development - and the use of GIS and remote sensing in this context.
-Despite still considering myself a nube, I increasingly enjoy developing programs, mainly in Python, R and Bash.</p>
+<p>I am an alpine citizen with a keen interest in <b>spatial issues</b>, ranging from landscape ecology to urban development - and the use of GIS and remote sensing in this context. </br>
+Despite still considering myself a newb, I increasingly enjoy developing programs, mainly in Python, R ,Bash and other languages to come.</p>
 
 In case you wanna know more, feel free to reach out to me, Simon Landauer. 
 
