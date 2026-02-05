@@ -9,7 +9,7 @@ Despite still considering myself a newb, I increasingly enjoy developing program
 
 In case you wanna know more, feel free to reach out to me, <a href="mailto:simonsaysenjoy@proton.me">SimonSaysEnjoy</a>. 
 
-I largely work and collaborate as a TrashPanda - <a href="https://github.com/GeoRacoon">GeoRacoon</a>. 
+I largely work and collaborate as a TrashPanda - 🦝 <a href="https://github.com/GeoRacoon">GeoRacoon</a>.  
 
 <a href="https://github.com/simonsaysenjoy"><img align="top" src="https://github-readme-stats-three-nu-12.vercel.app/api/top-langs/?username=simonsaysenjoy&langs_count=8&layout=donut&theme=swift&size_weight=0.5&count_weight=0.5&hide_border=true" />  <a href="https://github.com/simonsaysenjoy"><img align="top" src="https://github-readme-stats-three-nu-12.vercel.app/api?username=simonsaysenjoy&theme=swift&show_icons=true&include_all_commits=true&ring_color=e6652f&hide=stars&custom_title=Activity&show=reviews,discussions_answered"/> 
 
